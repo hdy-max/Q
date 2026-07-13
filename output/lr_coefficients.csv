@@ -1,12 +1,12 @@
 ﻿feature,coefficient
-sulphates,0.8412
-alcohol,0.2819
-fixed acidity,0.0231
-residual sugar,0.0066
-free sulfur dioxide,0.0056
-total sulfur dioxide,-0.0036
-citric acid,-0.1408
-pH,-0.3937
-volatile acidity,-1.0013
-chlorides,-1.8065
-density,-10.3516
+alcohol,0.3337
+sulphates,0.1327
+free sulfur dioxide,0.0689
+density,0.0231
+fixed acidity,0.0013
+residual sugar,-0.017
+citric acid,-0.0507
+chlorides,-0.0573
+pH,-0.0936
+total sulfur dioxide,-0.1246
+volatile acidity,-0.1911
