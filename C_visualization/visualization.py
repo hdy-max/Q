@@ -25,7 +25,7 @@ class WineVisualizer:
         self.a_dir = os.path.join(os.path.dirname(self.base_dir),
                                   "A_feature_analysis", "output")
         self.b_dir = os.path.join(os.path.dirname(self.base_dir),
-                                  "B_modeling", "output")
+                                  "output")
         self.output_dir = os.path.join(self.base_dir, "output", "charts")
         os.makedirs(self.output_dir, exist_ok=True)
 
